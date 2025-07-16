@@ -54,3 +54,8 @@ Compare with Cuckoo_12_Reedbird_1_b_tr
 
 ### 5. Further Questions
 For any inquiries, please contact wwang487@wisc.edu.
+
+### Citation
+Please cite:
+
+Wang, W., T. Van Deelen, F. Wei, S. Li, and L. Wang. 2025. “ Anthropogenic Habitat Loss and Fragmentation May Alter Coevolutionary Progress as Examined in a Brood Parasitism Model.” Ecology and Evolution 15, no. 7: e71721. https://doi.org/10.1002/ece3.71721.
